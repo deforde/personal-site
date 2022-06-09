@@ -1,3 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "en-gb"
 title = "Daniel's Blog"
+
+[permalinks]
+    blog = "/:filename/"
+
+[params]
+    homeText = "A Hugo blog from scratch."
