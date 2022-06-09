@@ -25,4 +25,8 @@ title = "Daniel's Blog"
     weight = 3
 
 [params]
-    homeText = "A Hugo blog from scratch."
+  dateFormat = "Jan 2, 2006"
+  homeText = "A Hugo blog from scratch."
+
+[taxonomies]
+  tag = "tags"

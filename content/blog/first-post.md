@@ -1,7 +1,7 @@
 ---
 title: "First Post"
 date: 2022-06-09T14:58:39+02:00
-tags: ["blog", "test"]
+tags: ["tag-one"]
 draft: true
 ---
 
